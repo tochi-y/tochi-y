@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😄 I’m currently working on Fujitsu.
+- 🍈 I’m also the Maintainer of [Personium](https://personium.io/)
+
 <!--
 **tochi-y/tochi-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
